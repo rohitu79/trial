@@ -3,6 +3,6 @@
 
 void main ( void )
 {
-	printf ("hello world version 1.0");
+	printf ("hello world version 2.0");
 	return;
 }
